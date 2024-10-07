@@ -1,8 +1,8 @@
 Hi, fellas. 
 
 **Contacts:
-TG: @razzaqoff
-IG: @demir.ue
+TG: @razzaqoff <br>
+IG: @demir.ue <br>
 Twitter: @47programmer**
 
 I have been building android application for 2 and a half years now. 
