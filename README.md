@@ -1,7 +1,7 @@
-Hi, fellas. 
+<h1>Hi, fellas.</h1> 
 
-**Contacts:
-TG: @razzaqoff <br>
+<h2>Contacts:</h2>
+**TG: @razzaqoff <br>
 IG: @demir.ue <br>
 Twitter: @47programmer**
 
