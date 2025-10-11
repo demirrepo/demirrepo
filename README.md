@@ -9,13 +9,13 @@ Building cross-platform mobile apps with **Flutter** and **Dart**
 - Clean UI/UX design and app architecture
 
 - ## 🛠️ Tech Stack
-**Languages:** Dart, SQL, Python
+- **Languages:** Dart, SQL, Python
 
-**Frameworks:** Flutter
+- **Frameworks:** Flutter
 
-**Tools:** Git, GitHub, Firebase, Firestore
+- **Tools:** Git, GitHub, Firebase, Firestore
 
-**Learning:** REST APIs, State Management (Provider, Riverpod)
+- **Learning:** REST APIs, State Management (Provider, Riverpod)
 
 - ## Personal Webpage
 - https://47reeds.netlify.app
