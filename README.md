@@ -10,8 +10,11 @@ Building cross-platform mobile apps with **Flutter** and **Dart**
 
 - ## 🛠️ Tech Stack
 **Languages:** Dart, SQL, Python
-**Frameworks:** Flutter  
+
+**Frameworks:** Flutter
+
 **Tools:** Git, GitHub, Firebase, Firestore
+
 **Learning:** REST APIs, State Management (Provider, Riverpod)
 
 - ## Personal Webpage
