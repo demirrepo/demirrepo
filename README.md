@@ -1,7 +1,7 @@
 <h1>Hey, I am Demir.</h1> 
 
-Aspiring **Flutter Developer** from Uzbekistan  
-Building cross-platform mobile apps with **Flutter** and **Dart**
+Aspiring **Flutter Developer** from Uzbekistan.  
+Building cross-platform mobile apps with **Flutter** and **Dart**.
 
 ## 🚀 Currently Learning
 - Flutter & Dart fundamentals  
