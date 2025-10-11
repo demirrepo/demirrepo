@@ -1,9 +1,18 @@
-<h1>Hi, fellas.</h1> 
+<h1>Hey, I am Demir</h1> 
 
-<h2>Contacts:</h2>
-<h3>TG: @razzaqoff</h3>
-<h3>IG: @demir.ue</h3>
-<h3>Twitter: @47programmer</h3>
+Aspiring **Flutter Developer** from Uzbekistan  
+Building cross-platform mobile apps with **Flutter** and **Dart**
 
-I have been building android application for 2 and a half years now. 
-Things I mainly use: Java, Room Database, Firebase, Gradle, APIs, Fragments, Compose UI and etc.
+## 🚀 Currently Learning
+- Flutter & Dart fundamentals  
+- Firebase integration  
+- Clean UI/UX design and app architecture
+
+- ## 🛠️ Tech Stack
+**Languages:** Dart, SQL, Python
+**Frameworks:** Flutter  
+**Tools:** Git, GitHub, Firebase, Firestore
+**Learning:** REST APIs, State Management (Provider, Riverpod)
+
+- ## Personal Webpage
+- https://47reeds.netlify.app
