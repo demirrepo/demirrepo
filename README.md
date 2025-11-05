@@ -18,4 +18,4 @@ Building cross-platform mobile apps with **Flutter** and **Dart**.
 - **Learning:** REST APIs, State Management (Provider, Riverpod)
 
 - ## Personal Webpage
-- https://47reeds.netlify.app
+- https://47reeds.com
